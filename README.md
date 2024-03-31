@@ -51,6 +51,10 @@ cd Website/
 streamlit run app.py
 ```
 
+## Live Deployment
+
+The website is deployed on Streamlit Cloud and can be accessed [Salary Prediction Website](https://salary-prediction-website.streamlit.app/).
+
 ## Website Screenshots and Live Deployment
 Website screenshots can be found here.
 
@@ -61,11 +65,6 @@ Website screenshots can be found here.
 ### 2.Explore Page
 
 ![image](https://github.com/Alok-2002/Salary_Prediction_Website_Source_Code/assets/93814546/41d4e634-5961-49ae-89d1-8ed8949f9736)
-
-
-## Live Deployment
-
-The website is deployed on Streamlit Cloud and can be accessed [Salary Prediction Website](https://salary-prediction-website.streamlit.app/).
 
 ## About
 The website is fully developed in Python and deployed on Streamlit Cloud. It utilizes machine learning algorithms for salary prediction and provides an intuitive interface for users to explore and predict salaries.
